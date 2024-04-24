@@ -1,3 +1,5 @@
+// Welcome to Absolute Abomination of A Code, the spaghetti of spaghettis
+
 #include <raylib.h>
 #include <iostream>
 #include <math.h>
