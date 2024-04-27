@@ -157,7 +157,7 @@ int main()
 
     particle ball({winWidth / 2, winHeight / 2}, 12);
 
-    hole thisHole({100, 600}, ball.radius + 5);
+    hole thisHole({600, 600}, ball.radius + 5);
 
     int level = 1;
     obstracle obs(level);
